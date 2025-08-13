@@ -21,7 +21,6 @@
 
 ```bash
 pip install mcstatus
-pip install tk
 ```
 
 ### 2\. 运行程序
@@ -42,7 +41,7 @@ python MCScanPro.py
 
 ### 4\. 获取可执行文件 (EXE)
 
-为了方便非 Python 用户，你可以使用打包好的 `MCScanPro.exe` 文件。你可以在项目的 [Release 页面](https://www.google.com/search?q=%E9%93%BE%E6%8E%A5%E5%88%B0%E4%BD%A0%E7%9A%84Release%E9%A1%B5%E9%9D%A2) 下载最新版本。
+为了方便非 Python 用户，你可以使用打包好的 `MCScanPro.exe` 文件。你可以在项目的 [Release 页面](https://github.com/26221/MCScanPro/releases) 下载最新版本。
 
 -----
 
