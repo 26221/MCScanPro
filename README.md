@@ -26,10 +26,10 @@ pip install tk
 
 ### 2\. 运行程序
 
-下载 `mc.py` 文件后，在命令行中执行以下命令即可启动程序：
+下载 `MCScanPro.py` 文件后，在命令行中执行以下命令即可启动程序：
 
 ```bash
-python mc.py
+python MCScanPro.py
 ```
 
 ### 3\. 界面操作
